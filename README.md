@@ -16,6 +16,7 @@
 ## أبرز المشاريع
 
 **DeloFood ERP System** 🔒
+
 نظام إدارة متكامل لشركة ديلو فود (فرع منطقة الزبلطاني في دمشق) في سوريا. مشروع خاص بعميل، الكود غير متاح للعرض العام.
 
 **[Gluco-Vision](https://github.com/hanenmoshref5-cell/Gluco-Vision)**
