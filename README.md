@@ -42,8 +42,8 @@
 
 - **[FaceMask-Detection-YOLOv8-vs-FasterRCNN](https://github.com/hanenmoshref5-cell/FaceMask-Detection-YOLOv8-vs-FasterRCNN)** مقارنة بين نموذجي كشف أجسام لتصنيف ارتداء الكمامة.
 - **[MNIST-FNN-vs-CNN-DeepLearning](https://github.com/hanenmoshref5-cell/MNIST-FNN-vs-CNN-DeepLearning)** بناء ومقارنة عدة معماريات شبكات عصبية لتصنيف الأرقام المكتوبة بخط اليد.
-- **[Heart-Disease-Prediction-KNN-DecisionTree](https://github.com/hanenmoshref5-cell/Heart-Disease-Prediction-KNN-DecisionTree)**  التبؤ بوجود مرض القلب لدا شخص بناءا على مجموعة فيتشر بلمقارنة بين نمذجي ذكاء اصناعي  
-- **[Japanese-Universities-Difficulty-Prediction](https://github.com/hanenmoshref5-cell/Japanese-Universities-Difficulty-Prediction)** التنبؤ بمستوى صعوبة القبول الجامعي بمقارنة بين عدة نماذج تصنيف.
+- **[Heart-Disease-Prediction-KNN-DecisionTree](https://github.com/hanenmoshref5-cell/Heart-Disease-Prediction-KNN-DecisionTree)**  التبؤ بوجود مرض القلب لدا شخص بناءا على مجموعة فيتشر
+- **[Japanese-Universities-Difficulty-Prediction](https://github.com/hanenmoshref5-cell/Japanese-Universities-Difficulty-Prediction)** التنبؤ بصعوبة القبول الجامعي بمقارنة بين عدة نماذج 
 - **[Digital-Image-Processing-Exercises](https://github.com/hanenmoshref5-cell/Digital-Image-Processing-Exercises)** OpenCV تحسين الصور وكشف الحواف باستخدام .
 
 </div>
