@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 # حنين مشرف
-### مهندسة معلوماتية | Full-Stack Developer (Mobile, Desktop, Web, Smart TV) & AI Systems
+### مهندسة معلوماتية | Full-Stack Developer (Mobile, Desktop, Web, Smart TV)Application & AI Systems
 
 مطوّرة متكاملة أبني تطبيقات وأنظمة حقيقية للحاسوب والهاتف والويب وشاشات التلفزيون الذكية، ولدي خبرة عملية بتطوير تطبيقات Flutter المرتبطة بقواعد بيانات Supabase.
 
