@@ -39,7 +39,3 @@
 - **[Heart-Disease-Prediction-KNN-DecisionTree](https://github.com/hanenmoshref5-cell/Heart-Disease-Prediction-KNN-DecisionTree)** — التنبؤ بمرض القلب بمقارنة بين KNN وDecision Tree.
 - **[Japanese-Universities-Difficulty-Prediction](https://github.com/hanenmoshref5-cell/Japanese-Universities-Difficulty-Prediction)** — التنبؤ بمستوى صعوبة القبول الجامعي بمقارنة بين عدة نماذج تصنيف.
 - **[Digital-Image-Processing-Exercises](https://github.com/hanenmoshref5-cell/Digital-Image-Processing-Exercises)** — تمارين في تحسين الصور وكشف الحواف باستخدام OpenCV.
-
-## مشاريع أساسية
-
-- **[Image-Editor-CSharp-WinForms](https://github.com/hanenmoshref5-cell/Image-Editor-CSharp-WinForms)** — محرر صور مصغّر بلغة C#.
